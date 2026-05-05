@@ -1,3 +1,2 @@
 Initial line 1 Hello World
 Initial line 2
-Initial line 3
